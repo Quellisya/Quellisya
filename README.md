@@ -44,9 +44,9 @@
 
 ## ✍️ 博客
 
-正在努力更新中，之后会在这里补上地址 👇
+把学习路上的笔记和踩过的坑整理成文章，正在努力更新中：
 
-<!-- TODO: 博客地址填在这里，例如 - 博客：[https://your-blog.com](https://your-blog.com) -->
+👉 **[quellisya.github.io](https://quellisya.github.io/)**
 
 ## 📊 GitHub 数据
 
@@ -58,7 +58,8 @@
 ## 📫 联系我
 
 - GitHub：[@Quellisya](https://github.com/Quellisya)
-<!-- TODO: 可以补充邮箱、博客、X/Twitter 等联系方式 -->
+- 博客：[quellisya.github.io](https://quellisya.github.io/)
+<!-- TODO: 可以补充邮箱、X/Twitter 等联系方式 -->
 
 ---
 
